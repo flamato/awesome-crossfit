@@ -12,6 +12,7 @@ Have something to add or change? Check out the [Contribution Guidelines](CONTRIB
 * [WODs](#wods)
 * [Strength](#strength-programs)
 * [Mobility](#mobility)
+* [Gear](#gear)
 
 ## Official
 
@@ -41,3 +42,8 @@ Have something to add or change? Check out the [Contribution Guidelines](CONTRIB
 
 * [Mobility|WOD](https://mobilitywod.com)
 * [ROMWOD](https://romwod.com)
+
+## Gear
+
+* [Rogue](http://www.roguefitness.com)
+* [HYLETE](http://www.hylete.com)
