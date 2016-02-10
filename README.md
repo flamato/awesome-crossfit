@@ -2,6 +2,8 @@
 
 > A curated list of awesome Crossfit resources!
 
+Have something to add or change? Check out the [Contribution Guidelines](CONTRIBUTING.md)
+
 * [Crossfit.com Resources](#crossfitcom-resources)
 
 ### Crossfit.com Resources
