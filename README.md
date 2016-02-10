@@ -9,7 +9,8 @@
 * [Main Site](http://www.crossfit.com)
 * [Games](http://games.crossfit.com)
 * [Journal](http://journal.crossfit.com)
-* [Affiliate Map](http://map.crossfit.com)y
+* [Affiliate Map](http://map.crossfit.com)
 * [Certifications](http://certifications.crossfit.com)
 * [Courses](http://training.crossfit.com/courses)
-* [Trainer Directory](http://trainerdirectory.crossfit.com/)
+* [Trainer Directory](http://trainerdirectory.crossfit.com)
+* [Crossfit Kids](http://kids.crossfit.com)
