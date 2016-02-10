@@ -2,9 +2,14 @@
 
 > A curated list of awesome Crossfit resources!
 
-* [Official Resources](#official-resources)
+* [Crossfit.com Resources](#crossfitcom-resources)
 
-### Official Resources
+### Crossfit.com Resources
 
-* [Crossfit](http://www.crossfit.com)
-* [Crossfit Games](http://games.crossfit.com)
+* [Main Site](http://www.crossfit.com)
+* [Games](http://games.crossfit.com)
+* [Journal](http://journal.crossfit.com)
+* [Affiliate Map](http://map.crossfit.com)y
+* [Certifications](http://certifications.crossfit.com)
+* [Courses](http://training.crossfit.com/courses)
+* [Trainer Directory](http://trainerdirectory.crossfit.com/)
