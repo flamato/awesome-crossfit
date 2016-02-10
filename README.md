@@ -9,6 +9,7 @@ Have something to add or change? Check out the [Contribution Guidelines](CONTRIB
 
 * [Official](#official)
 * [Blogs](#blogs)
+* [Podcasts](#podcasts)
 * [WODs](#wods)
 * [Strength](#strength-programs)
 * [Mobility](#mobility)
@@ -27,12 +28,18 @@ Have something to add or change? Check out the [Contribution Guidelines](CONTRIB
 
 ## Blogs
 
- * [The WOD DOC](http://thewoddoc.com)
- * [Barbell Shrugged](http://daily.barbellshrugged.com/)
+* [The WOD DOC](http://thewoddoc.com)
+
+## Podcasts
+
+* [Wodcast Podcast](http://www.wodcastpodcast.com)
+* [Crossfit Radio](http://journal.crossfit.com/radio)
+* [Barbell Shrugged](http://daily.barbellshrugged.com)
+* [The Strength Coach Podcast](http://www.strengthcoachpodcast.com)
 
 ## WODs
 
- * [Competitors Training](http://competitorstraining.com)
+* [Competitors Training](http://competitorstraining.com)
 
 ## Strength Programs
 
