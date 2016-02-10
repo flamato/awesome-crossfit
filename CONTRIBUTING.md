@@ -9,11 +9,9 @@ Please note that this project is released with a [Code of Conduct](CODE-OF-CONDU
 
 ## Adding something awesome to this list
 
-If you have something awesome to contribute to Awesome Crossfit, this is how you do it.
+If you have something awesome to contribute to Awesome Crossfit, this is how you do it. You'll need a [GitHub account](https://github.com/join)!
 
-You'll need a [GitHub account](https://github.com/join)!
-
-1. Access the Awesome Crossfit [GitHub Page](https://github.com/smarchetti/awesome-crossfit).
+1. Access the Awesome Crossfit [GitHub page](https://github.com/smarchetti/awesome-crossfit).
 2. Click on the [README.md](https://github.com/smarchetti/awesome-crossfit/README.md) file.
 3. Click on the edit icon.
 4. You can start editing the text of the file in the in-browser editor.
