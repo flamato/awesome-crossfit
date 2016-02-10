@@ -3,7 +3,9 @@
 
 > A curated list of awesome Crossfit resources!
 
-Have something to add or change? Check out the [Contribution Guidelines](CONTRIBUTING.md)
+Have something to add or change? Check out the [Contribution Guidelines](CONTRIBUTING.md) and our [License](LICENSE)
+
+# Table of Contents
 
 * [Official](#official)
 * [Blogs](#blogs)
