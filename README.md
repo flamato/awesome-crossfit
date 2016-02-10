@@ -14,6 +14,7 @@ Have something to add or change? Check out the [Contribution Guidelines](CONTRIB
 * [WODs](#wods)
 * [Strength](#strength-programs)
 * [Mobility](#mobility)
+* [Gymnastics](#gymnastics)
 * [Gear](#gear)
 
 ## Official
@@ -58,6 +59,11 @@ Have something to add or change? Check out the [Contribution Guidelines](CONTRIB
 * [Mobility|WOD](https://mobilitywod.com)
 * [ROMWOD](https://romwod.com)
 * [Trigger Point Performance](https://www.tptherapy.com)
+
+## Gymnastics
+
+* [CrossFit Gymnastics](http://www.crossfitgymnastics.com)
+* [GymnasticWOD](http://gymnasticswod.com)
 
 ## Gear
 
