@@ -5,18 +5,18 @@
 
 Have something to add or change? Check out the [Contribution Guidelines](CONTRIBUTING.md)
 
-* [Crossfit.com Resources](#crossfitcom-resources)
+* [Official](#official)
 * [Mobility](#mobility)
 
-### Crossfit.com Resources
+### Official
 
 * [Main Site](http://www.crossfit.com)
-* [Games](http://games.crossfit.com)
-* [Journal](http://journal.crossfit.com)
-* [Affiliate Map](http://map.crossfit.com)
-* [Certifications](http://certifications.crossfit.com)
-* [Courses](http://training.crossfit.com/courses)
-* [Trainer Directory](http://trainerdirectory.crossfit.com)
+* [Crossfit Games](http://games.crossfit.com)
+* [Crossfit Journal](http://journal.crossfit.com)
+* [Crossfit Affiliate Map](http://map.crossfit.com)
+* [Crossfit Certifications](http://certifications.crossfit.com)
+* [Crossfit Courses](http://training.crossfit.com/courses)
+* [Crossfit Trainer Directory](http://trainerdirectory.crossfit.com)
 * [Crossfit Kids](http://kids.crossfit.com) 
 
 ### Mobility
