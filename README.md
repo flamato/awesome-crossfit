@@ -17,7 +17,10 @@ Have something to add or change? Check out the [Contribution Guidelines](CONTRIB
 * [Crossfit Certifications](http://certifications.crossfit.com)
 * [Crossfit Courses](http://training.crossfit.com/courses)
 * [Crossfit Trainer Directory](http://trainerdirectory.crossfit.com)
-* [Crossfit Kids](http://kids.crossfit.com) 
+* [Crossfit Kids](http://kids.crossfit.com)
+
+### Improvement
+ * [The WOD DOC](http://thewoddoc.com)
 
 ### Mobility
 
