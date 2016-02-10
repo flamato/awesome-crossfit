@@ -6,6 +6,9 @@
 Have something to add or change? Check out the [Contribution Guidelines](CONTRIBUTING.md)
 
 * [Official](#official)
+* [Blogs](#blogs)
+* [WODs](#wods)
+* [Strength](#strength-programs)
 * [Mobility](#mobility)
 
 ### Official
@@ -19,8 +22,18 @@ Have something to add or change? Check out the [Contribution Guidelines](CONTRIB
 * [Crossfit Trainer Directory](http://trainerdirectory.crossfit.com)
 * [Crossfit Kids](http://kids.crossfit.com)
 
-### Improvement
+### Blogs
+
  * [The WOD DOC](http://thewoddoc.com)
+ * [Barbell Shrugged](http://daily.barbellshrugged.com/)
+
+### WODs
+
+ * [Competitors Training](http://competitorstraining.com)
+
+### Strength Programs
+
+* [Hatch Squat Program](http://www.hatchsquat.com)
 
 ### Mobility
 
