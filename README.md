@@ -10,6 +10,7 @@ Have something to add or change? Check out the [Contribution Guidelines](CONTRIB
 * [Official](#official)
 * [Blogs](#blogs)
 * [Podcasts](#podcasts)
+* [Magazines](#magazinea)
 * [WODs](#wods)
 * [Strength](#strength-programs)
 * [Mobility](#mobility)
@@ -36,6 +37,13 @@ Have something to add or change? Check out the [Contribution Guidelines](CONTRIB
 * [Crossfit Radio](http://journal.crossfit.com/radio)
 * [Barbell Shrugged](http://daily.barbellshrugged.com)
 * [The Strength Coach Podcast](http://www.strengthcoachpodcast.com)
+
+## Magazines
+
+* [The Box](http://www.theboxmag.com)
+* [Tabata Times](http://www.tabatatimes.com)
+* [WODTALK](http://www.wodtalk.com)
+* [Austin Fit Magazine](http://www.wodtalk.com)
 
 ## WODs
 
