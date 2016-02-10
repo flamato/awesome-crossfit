@@ -13,7 +13,7 @@ Have something to add or change? Check out the [Contribution Guidelines](CONTRIB
 * [Strength](#strength-programs)
 * [Mobility](#mobility)
 
-### Official
+## Official
 
 * [Main Site](http://www.crossfit.com)
 * [Crossfit Games](http://games.crossfit.com)
@@ -24,20 +24,20 @@ Have something to add or change? Check out the [Contribution Guidelines](CONTRIB
 * [Crossfit Trainer Directory](http://trainerdirectory.crossfit.com)
 * [Crossfit Kids](http://kids.crossfit.com)
 
-### Blogs
+## Blogs
 
  * [The WOD DOC](http://thewoddoc.com)
  * [Barbell Shrugged](http://daily.barbellshrugged.com/)
 
-### WODs
+## WODs
 
  * [Competitors Training](http://competitorstraining.com)
 
-### Strength Programs
+## Strength Programs
 
 * [Hatch Squat Program](http://www.hatchsquat.com)
 
-### Mobility
+## Mobility
 
 * [Mobility|WOD](https://mobilitywod.com)
 * [ROMWOD](https://romwod.com)
