@@ -5,3 +5,6 @@
 * [Official Resources](#official-resources)
 
 ### Official Resources
+
+* [Crossfit](http://www.crossfit.com)
+* [Crossfit Games](http://games.crossfit.com)
