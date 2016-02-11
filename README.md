@@ -30,11 +30,11 @@ Have something to add or change? Check out the [Contribution Guidelines](CONTRIB
 
 ## 
 
-* [The WOD DOC](http://thewoddoc.com) - videos podcast featuring short videos and demos
-* [Barbell Shrugged](http://daily.barbellshrugged.com) - weekly video podcast featuring long discussions
 
 ## Podcasts
 
+* [Barbell Shrugged](http://daily.barbellshrugged.com) - weekly video podcast featuring long discussions
+* [The WOD DOC](http://thewoddoc.com) - videos podcast featuring short videos and demos
 * [Wodcast Podcast](http://www.wodcastpodcast.com)
 * [Crossfit Radio](http://journal.crossfit.com/radio)
 * [The Strength Coach Podcast](http://www.strengthcoachpodcast.com)
@@ -56,7 +56,7 @@ Have something to add or change? Check out the [Contribution Guidelines](CONTRIB
 
 ## Mobility
 
-* [Mobility|WOD](https://mobilitywod.com)
+* [Mobility|WOD](https://mobilitywod.com) - **[$]** videos to help you improve your mobility; free videos available 
 * [ROMWOD](https://romwod.com)
 * [Trigger Point Performance](https://www.tptherapy.com)
 
