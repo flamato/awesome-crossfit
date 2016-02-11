@@ -56,7 +56,7 @@ Have something to add or change? Check out the [Contribution Guidelines](CONTRIB
 
 ## Mobility
 
-* [Mobility|WOD](https://mobilitywod.com) - **[$]** videos to help you improve your mobility; free videos available 
+* [Mobility|WOD](https://mobilitywod.com) - :dollar: videos to help you improve your mobility; free videos available 
 * [ROMWOD](https://romwod.com)
 * [Trigger Point Performance](https://www.tptherapy.com)
 
