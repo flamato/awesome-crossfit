@@ -57,7 +57,7 @@ Have something to add or change? Check out the [Contribution Guidelines](CONTRIB
 ## Mobility
 
 * [Mobility|WOD](https://mobilitywod.com) - :dollar: videos to help you improve your mobility; free videos available 
-* [ROMWOD](https://romwod.com)
+* [ROMWOD](https://romwod.com) - :dollar: - daily video WODs to help you improve your range of motion; free trial available
 * [Trigger Point Performance](https://www.tptherapy.com)
 
 ## Gymnastics
