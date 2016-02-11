@@ -28,15 +28,15 @@ Have something to add or change? Check out the [Contribution Guidelines](CONTRIB
 * [Crossfit Trainer Directory](http://trainerdirectory.crossfit.com)
 * [Crossfit Kids](http://kids.crossfit.com)
 
-## Blogs
+## 
 
-* [The WOD DOC](http://thewoddoc.com)
+* [The WOD DOC](http://thewoddoc.com) - videos podcast featuring short videos and demos
+* [Barbell Shrugged](http://daily.barbellshrugged.com) - weekly video podcast featuring long discussions
 
 ## Podcasts
 
 * [Wodcast Podcast](http://www.wodcastpodcast.com)
 * [Crossfit Radio](http://journal.crossfit.com/radio)
-* [Barbell Shrugged](http://daily.barbellshrugged.com)
 * [The Strength Coach Podcast](http://www.strengthcoachpodcast.com)
 
 ## Magazines
