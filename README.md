@@ -16,6 +16,7 @@ Have something to add or change? Check out the [Contribution Guidelines](CONTRIB
 * [Mobility](#mobility)
 * [Gymnastics](#gymnastics)
 * [Gear](#gear)
+* [Apps](#apps)
 
 ## Official
 
@@ -69,3 +70,7 @@ Have something to add or change? Check out the [Contribution Guidelines](CONTRIB
 
 * [Rogue](http://www.roguefitness.com)
 * [HYLETE](http://www.hylete.com)
+
+## Apps
+* [SugarWOD](https://www.sugarwod.com/)
+* [myWOD](http://www.dreamworkshopapps.com/mywod/)
